@@ -5,5 +5,5 @@ public class Operations {
 
     public int findMin(int a, int b) {
         return (a < b) ? a : b;
-    } 
+    }
 }
